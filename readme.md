@@ -100,7 +100,7 @@ Create the following subnets across two Availability Zones:
 - Pvt-db-sub-1b → 10.0.112.0/20
 
 **Screenshot:**
-![Subnets Created](/Screenshots/subnet.png)
+![Subnets Created](/Screenshots/Subnet.png)
 
 ---
 
@@ -297,7 +297,7 @@ MySQL (3306) from backend-server-sg
   - Backend AMI
 
 **Screenshot:**
-![AMI Created](/Screenshots/ami.png)
+![AMI Created](/Screenshots/AMI.png)
 
 ---
 
@@ -343,4 +343,4 @@ MySQL (3306) from backend-server-sg
 ![App Running](/Screenshots/APP-1.png)
 
 **Screenshot:**
-![App Running](/Screenshots/App-2.png)
+![App Running](/Screenshots/APP-2.png)
